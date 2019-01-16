@@ -1,6 +1,8 @@
 # WinActive a simple KMS tool!
 
-![](https://i.imgur.com/5XWWuXc.png)
+<p align="center"> 
+  <img src="https://i.imgur.com/5XWWuXc.png">
+</p>
 
 ## Welcome to WinActive!
 
