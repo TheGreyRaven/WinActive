@@ -119,12 +119,12 @@ namespace WinActive
 
         private void githubButton_Click(object sender, EventArgs e)
         {
-            Process.Start("");
+            Process.Start("https://github.com/TheGreyRaven/WinActive");
         }
 
         private void mdlButton_Click(object sender, EventArgs e)
         {
-
+            Process.Start("");
         }
     }
 }
