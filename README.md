@@ -7,6 +7,7 @@
 ### What is WinActive?
 
 WinActive is a KMS (Key Management Service) software.
+
 KMS is a technology used by Microsoft to activate software deployed in bulk (e.g., in a corporate environment). What WinActive and similar KMS programs does is to replace the installed key with a volume license key, create an emulated instance of a KMS server on your machine and force the products to activate against this KMS server. 
 
 ----
@@ -46,11 +47,14 @@ This list will probably continue to grow with time, and if you have some ideas t
 ### Downloads
 
 You can always download the latest version: here!
+
 Original thread on MyDigitalLife: here!
 
 Latest MD5 and SHA256:
+
 **MD5:**
 **SHA256:**
+
 Make sure they are correct before opening!
 
 ----
