@@ -124,7 +124,7 @@ namespace WinActive
 
         private void mdlButton_Click(object sender, EventArgs e)
         {
-            Process.Start("");
+            Process.Start("https://forums.mydigitallife.net/threads/remade-winactive-a-simple-kms-activator.78836/");
         }
     }
 }
