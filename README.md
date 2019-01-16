@@ -46,9 +46,9 @@ This list will probably continue to grow with time, and if you have some ideas t
 
 ### Downloads
 
-You can always download the latest version: here!
+You can always download the latest version: [here](https://github.com/TheGreyRaven/WinActive/releases)!
 
-Original thread on MyDigitalLife: here!
+Original thread on MyDigitalLife: [here](https://forums.mydigitallife.net/threads/remade-winactive-a-simple-kms-activator.78836/)!
 
 Latest MD5 and SHA256 are available in the release tab.
 
